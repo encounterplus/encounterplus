@@ -40,7 +40,10 @@ body {
 		display: inline-block;
 		width: 20px;height: 20px;
 		margin: 0px 2px;
+	}
 
+	ul, ol {
+		margin-left: 0;
 	}
 
 	@include large {
@@ -51,12 +54,12 @@ body {
 	  }
 
 	 @include medium {
-	    padding: 2rem 3rem;
+	    padding: 2rem 2rem;
 	    font-size: 1.1rem;
 	 }
 
 	 @include small {
-	    padding: 2rem 2rem;
+	    padding: 1.5rem 1.5rem;
 	    font-size: 1rem;
 	 }
 }
