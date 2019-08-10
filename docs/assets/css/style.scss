@@ -14,9 +14,18 @@ $blockquote-text-color: #819198 !default;
 
 @import "{{ site.theme }}";
 
+body {
+	font-size: 15px;
+}
+
+.project-tagline {
+	margin-bottom: 0;
+}
+
 .main-content {
 
-	font-size: 1rem;
+	font-size: 15px;
+
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 600;
@@ -33,10 +42,23 @@ $blockquote-text-color: #819198 !default;
 		margin: 0px 2px;
 
 	}
-}
 
-body {
-	font-size: 1rem;
+	@include large {
+	    max-width: 64rem;
+	    padding: 2rem 6rem;
+	    margin: 0 auto;
+	    font-size: 1.1rem;
+	  }
+
+	 @include medium {
+	    padding: 2rem 3rem;
+	    font-size: 1.1rem;
+	 }
+
+	 @include small {
+	    padding: 2rem 2rem;
+	    font-size: 1rem;
+	 }
 }
 
 
