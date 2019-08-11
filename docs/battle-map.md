@@ -83,6 +83,8 @@ You can use any image as a background for your map. If your map image already co
 * Use **Offset X** and **Offset Y** to match grid offset on the background image.
 * Use **Scale** to fine-tune background image scale for better grid alignment.
 
+<video src="https://encounter.plus/videos/grid-align.mp4" width="100%" controls preload></video>
+
 ## Line of Sight
 
 You can use *Line of Sight* tools to dynamically hide a portion of the map from players based on their vision settings while presenting on the external screen.
