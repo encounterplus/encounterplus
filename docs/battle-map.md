@@ -1,20 +1,3 @@
-[icon-pencil]: icons/pencil.png 
-[icon-highlighter]: icons/highlighter.png
-[icon-eraser]: icons/eraser.png
-[icon-undo]: icons/undo.png
-[icon-move]: icons/move.png
-[icon-move-restricted]: icons/move-restricted.png
-[icon-select]: icons/select.png
-[icon-snap]: icons/snap.png
-[icon-reveal]: icons/reveal.png
-[icon-hide]: icons/hide.png
-[icon-layers]: icons/layers.png
-[icon-markers]: icons/markers.png 
-[icon-settings]: icons/settings.png
-[icon-share]: icons/share.png
-[icon-fog-free]: icons/fog-free.png
-[icon-fog-rect]: icons/fog-rect.png
-
 # Battle Map
 
 ## Toolbar buttons
@@ -46,6 +29,13 @@
 * **Walls Generator** - auto walls generator.
 * **Reset** - reset to defaults.
 
+## Layers
+
+Battle map contains several specialized layers for various purposes.
+
+* **Token & Objecs** - default layer for drawings and tokens.
+* **Walls & Obstacles** - walls, doors and other obstacles used in [Line of Sight](line-of-sight).
+* **Walkable Floors** - used for pathfinding and walls generator.
 
 ## Scrolling and Zooming
 
@@ -67,6 +57,11 @@
 
 *PRO TIP: Use can choose multiple party movement modes from app settings, which applies when selecting and moving a group of players*
 
+### Snap to Grid
+
+1. Tap ![snap][icon-snap] to toggle between snap to grid modes.
+2. Use a finger on circle token to move creature anywhere on the map. 
+
 ## Grid and Background Image
 
 You can use any image as a background for your map. If your map image already contains a grid, you need to do an alignment.
@@ -87,9 +82,23 @@ You can use any image as a background for your map. If your map image already co
 
 ## Line of Sight
 
-You can use *Line of Sight* tools to dynamically hide a portion of the map from players based on their vision settings while presenting on the external screen.
+You can use *Line of Sight* to dynamically hide a portion of the map from players based on their vision while presenting on the external screen.
 
-More info [here](line-of-sight)
+More info in dedicated [section](line-of-sight)
+
+### Walls generator
+
+You can use *Walls Generator* tool to quickly generate walls and obstacles for Line of Sight based on walkable floors. It's ideal for dungeons with rectangle corridors.
+
+1. Tap ![settings][icon-settings].
+2. Tap *Walls Generator*.
+3. Adjust parameters.
+	* **Wall Offset** - offset from otuer side of wall.
+	* **Floor Color** - only use floors with selected color.
+	* **Continuous** - if enabled, each wall will be generated as a single continuous line, otherwise it will be dividied into separete segments
+4. Tap Generate
+
+*Pro TIP - You can experiment with parameters by using this tool multiple times. All previously generated walls will be replaced.*
 
 ## Fog of War
 
@@ -182,3 +191,20 @@ You can draw on a map or highlight a specific area, sketch basic dungeon or envi
 ### Scrolling while handwriting
 
 * Use two fingers to scroll and zoom.
+
+[icon-pencil]: icons/pencil.png 
+[icon-highlighter]: icons/highlighter.png
+[icon-eraser]: icons/eraser.png
+[icon-undo]: icons/undo.png
+[icon-move]: icons/move.png
+[icon-move-restricted]: icons/move-restricted.png
+[icon-select]: icons/select.png
+[icon-snap]: icons/snap.png
+[icon-reveal]: icons/reveal.png
+[icon-hide]: icons/hide.png
+[icon-layers]: icons/layers.png
+[icon-markers]: icons/markers.png 
+[icon-settings]: icons/settings.png
+[icon-share]: icons/share.png
+[icon-fog-free]: icons/fog-free.png
+[icon-fog-rect]: icons/fog-rect.png
