@@ -3,7 +3,7 @@
 Documentation for Encounter+ iOS app v4.2
 
 * [Quick Start](quick-start)
-* [Library](library)
+* [Tutorials](tutorials)
 * [Battle Map](battle-map)
 * [Line of Sight](line-of-sight)
 * [Campaigns & Modules](campaigns-and-modules)
