@@ -34,3 +34,6 @@ You can use *Walls Generator* tool to quickly generate walls and obstacles for L
 [icon-share]: icons/share.png
 [icon-fog-free]: icons/fog-free.png
 [icon-fog-rect]: icons/fog-rect.png
+[icon-add]: icons/add.png
+[icon-more]: icons/more.png
+[icon-library]: icons/library.png

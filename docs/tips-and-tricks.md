@@ -1,22 +1,5 @@
-# Quick Start
+# Tips and Tricks
 
-## Basics
-
-<video src="https://encounter.plus/videos/basics.mp4" width="100%" controls preload></video>
-
-# Adding Creatures to Combat
-
-## Inserting Monster or NPC
-
-To Insert a Monster or NPC into the Initiative Tracker, select the Insert button ![insert][button-insert] on the bottom left of the screen, and select Monster or NPC. Find and select the Monster or NPC you want to add to combat, and then select the load icon ![load][icon-load] on the top right of the screen.
-
-## Inserting Player Characters
-
-To Insert a Player Character into the Initiative Tracker, select the Insert button ![insert][button-insert] on the bottom left of the screen, and select Player Character. Find and select the Player Character you want to add to combat, and then select the load icon ![load][icon-load] on the top right of the screen.
-
-## Inserting Party from Campaign
-
-The Party from Campaign button in the Insert menu assumes you have already created at least one Player Character, created at least one Campaign, and added at least one Player Character to that Campaign.
 
 For more information about Campaigns, please see here
 
@@ -56,8 +39,3 @@ For more information about Campaigns, please see here
 [button-initiative]: buttons/initiative.png
 [button-randomize]: buttons/randomize.png
 [button-reset]: buttons/reset.png
-
-
-
-
-

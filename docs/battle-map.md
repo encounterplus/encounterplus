@@ -1,3 +1,20 @@
+[icon-pencil]: icons/pencil.png 
+[icon-highlighter]: icons/highlighter.png
+[icon-eraser]: icons/eraser.png
+[icon-undo]: icons/undo.png
+[icon-move]: icons/move.png
+[icon-move-restricted]: icons/move-restricted.png
+[icon-select]: icons/select.png
+[icon-snap]: icons/snap.png
+[icon-reveal]: icons/reveal.png
+[icon-hide]: icons/hide.png
+[icon-layers]: icons/layers.png
+[icon-markers]: icons/markers.png 
+[icon-settings]: icons/settings.png
+[icon-share]: icons/share.png
+[icon-fog-free]: icons/fog-free.png
+[icon-fog-rect]: icons/fog-rect.png
+
 # Battle Map
 
 ## Toolbar buttons
@@ -192,19 +209,8 @@ You can draw on a map or highlight a specific area, sketch basic dungeon or envi
 
 * Use two fingers to scroll and zoom.
 
-[icon-pencil]: icons/pencil.png 
-[icon-highlighter]: icons/highlighter.png
-[icon-eraser]: icons/eraser.png
-[icon-undo]: icons/undo.png
-[icon-move]: icons/move.png
-[icon-move-restricted]: icons/move-restricted.png
-[icon-select]: icons/select.png
-[icon-snap]: icons/snap.png
-[icon-reveal]: icons/reveal.png
-[icon-hide]: icons/hide.png
-[icon-layers]: icons/layers.png
-[icon-markers]: icons/markers.png 
-[icon-settings]: icons/settings.png
-[icon-share]: icons/share.png
-[icon-fog-free]: icons/fog-free.png
-[icon-fog-rect]: icons/fog-rect.png
+## Working with Assets
+
+<div class="video">
+    <iframe  src="https://www.youtube.com/embed/V-BUZvcmO5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
