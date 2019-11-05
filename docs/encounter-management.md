@@ -11,9 +11,11 @@ Adding Creatures and players
 	
 *The only included creatures in the compendium are from the Basic Rules Set in compliance with Wizard’s of the Coast Open Game License v1.0a*
 
-	* **Player Character**: This will add any Player Characters that have been added to the Encounter Plus Compendium. 
-	* *Players can be added to the compendium via tapping on the ![Compendium][icon-library] icon in the top right of the app.*
-	* **Party from Campaign**: This will add whole parties of Player Characters if they have been added to a particular campaign in the compendium. 
+* **Player Character**: This will add any Player Characters that have been added to the Encounter Plus Compendium. 
+
+*Players can be added to the compendium via tapping on the ![Compendium][icon-library] icon in the top right of the app.*
+
+* **Party from Campaign**: This will add whole parties of Player Characters if they have been added to a particular campaign in the compendium. 
 	
 *Player Characters can be added to a campaign by tapping on the campaign in the compendium ![compendium][icon-library]. Then tap the [Edit] button to add players to that particular campaign. This gives one tap capability to add groups of PCs.*
 
