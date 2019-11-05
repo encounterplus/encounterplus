@@ -54,6 +54,9 @@ Adding Creatures and players
 
 ***Note:** Combat can be toggled on or off at will. Combat does have to be stopped in order to add additional creatures to the combat. When ![Start][icon-start] is tapped there is an option to re-roll initiative. Tap **Later** if combat is to be resumed without a re-rolling of initiative.*
 
+### Saving Encounters
+
+* Tapping the ![Save][icon-save] button will save this encounter for later use. All stats and conditions will be saved as well as the creatures' location within the combat encounter. This encounter can then be accessed in the Compendium ![compendium][icon-library]. Tapping the ![checkmark][icon-load] will load the encounter back up. 
 
 [icon-insert]: buttons/insert.png
 [icon-library]: icons/library.png
@@ -64,3 +67,4 @@ Adding Creatures and players
 [icon-next]: buttons/next.png
 [icon-stop]: buttons/stop.png
 [icon-start]: buttons/start.png
+[icon-save]: buttons/save.png
