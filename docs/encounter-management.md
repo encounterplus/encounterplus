@@ -22,7 +22,7 @@ Adding Creatures and players
 
 3. Once a particular creature or PC is tapped on in the Compendium, a creature description will be seen. This will display all the stats and abilities of that creature. Tap the ![Checkmark][icon-load] to add that creature. 
 
-***Note:** The ![Checkmark][icon-load] can be tapped multiple times to add many of the same creature to a combat encounter.*
+	***Note:** The ![Checkmark][icon-load] can be tapped multiple times to add many of the same creature to a combat encounter.*
 
 ### Starting Combat
 
