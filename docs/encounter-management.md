@@ -9,7 +9,7 @@ Adding Creatures and players
 2. Choose between the following:
 	* **Monster or NPC**: This will open the built-in compendium for all the creatures stored within Encounter Plus.
 	
-*The only included creatures in the compendium are from the Basic Rules Set in compliance with Wizard’s of the Coast Open Game License v1.0a*
+***Note:** The only included creatures in the compendium are from the Basic Rules Set in compliance with Wizard’s of the Coast Open Game License v1.0a*
 
 * **Player Character**: This will add any Player Characters that have been added to the Encounter Plus Compendium. 
 
