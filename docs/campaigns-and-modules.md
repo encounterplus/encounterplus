@@ -20,6 +20,7 @@ Once a campaign is created the planning phase begins. As stated above, the follo
 * **Pages**: These are going to be documents that can include anything that the DM needs to keep track of events, NPCs, character arcs, and anything else that needs to be written down. 
 *  **Encounters**: Adding encounters let’s the DM pre-plan who/what the Player Characters will face. Creating an encounter will prompt a name, description, and combatants. Based on the Player characters in the campaign, Encounter will stated the difficulty. 
 * **Maps**: Maps can be hand drawn using the tools built into Encounter +. Maps can also be imported from the **Photos App** or the **Files App**. These maps can then be drawn on. Markers can also be added by couple tapping in the map. This will add a marker to the spot that was double tapped.
+
 *The use of Maps can be unlocked via the in app purchase in the ![Settings][icon-settings] or via the in-app **Subscription**.*
 
 [icon-insert]: buttons/insert.png
