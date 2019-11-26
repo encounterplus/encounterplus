@@ -69,7 +69,7 @@ Battle map contains several specialized layers for various purposes.
 ### Moving multiple creatures at once
 
 1. Tap ![select][icon-select].
-2. Use finger to select a group of creatures by draging rectangle over them.
+2. Use finger to select a group of creatures by dragging rectangle over them.
 3. Use a finger on any circle token in a selected group to move creatures anywhere on the grid.
 
 *PRO TIP: Use can choose multiple party movement modes from app settings, which applies when selecting and moving a group of players*

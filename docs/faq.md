@@ -18,7 +18,7 @@ You can also quickly add creatures to encounter just by dragging text like this 
 
 ### How can I quickly find image for certain monster?
 
-Just tap on monster name in Monster card. You will be redirected to Google Search in Safari browser. Works even better in split screen, where you can update monster’s artwork by draggin image from Safari to Monster card.
+Just tap on monster name in Monster card. You will be redirected to Google Search in Safari browser. Works even better in split screen, where you can update monster’s artwork by dragging image from Safari to Monster card.
 
 ### How can I delete creatures from encounter?
 
