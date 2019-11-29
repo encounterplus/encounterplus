@@ -72,7 +72,7 @@ Battle map contains several specialized layers for various purposes.
 2. Use finger to select a group of creatures by dragging rectangle over them.
 3. Use a finger on any circle token in a selected group to move creatures anywhere on the grid.
 
-*PRO TIP: Use can choose multiple party movement modes from app settings, which applies when selecting and moving a group of players*
+*PRO TIP: You can choose multiple party movement modes from app settings, which applies when selecting and moving a group of players*
 
 ### Snap to Grid
 
