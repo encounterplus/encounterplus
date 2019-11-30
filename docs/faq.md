@@ -4,7 +4,7 @@
 
 Default content included in this app is restricted by WoTC Open Game License. However, you can import additional content made by community or by your friends. Just ask around :)
 
-### External Screen? How is it working?
+### External Screen? How does it work?
 
 You can use this app to display current initiative, images or handouts in realtime during your sessions on a big screen like a TV or data projector.
 
