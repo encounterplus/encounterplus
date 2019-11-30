@@ -6,15 +6,15 @@ You can use *Line of Sight* to dynamically hide a portion of the map from player
 
 ### Walls generator
 
-You can use *Walls Generator* tool to quickly generate walls and obstacles for Line of Sight based on walkable floors. It's ideal for dungeons with rectangle corridors.
+You can use *Walls Generator* tool to quickly generate walls and obstacles for Line of Sight based on walkable floors. It’s ideal for dungeons with rectangular corridors.
 
 1. Tap ![settings][icon-settings].
 2. Tap *Walls Generator*.
 3. Adjust parameters.
-	* **Wall Offset** - offset from otuer side of wall.
+	* **Wall Offset** - offset from other side of wall.
 	* **Floor Color** - only use floors with selected color.
-	* **Continuous** - if enabled, each wall will be generated as a single continuous line, otherwise it will be dividied into separete segments
-4. Tap Generate
+	* **Continuous** - if enabled, each wall will be generated as a single continuous line, otherwise it will be divided into separate segments.
+4. Tap Generate.
 
 *Pro TIP - You can experiment with parameters by using this tool multiple times. All previously generated walls will be replaced.*
 

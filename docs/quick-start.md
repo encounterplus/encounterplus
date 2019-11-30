@@ -18,7 +18,7 @@ To Insert a Player Character into the Initiative Tracker, select the Insert butt
 
 The Party from Campaign button in the Insert menu assumes you have already created at least one Player Character, created at least one Campaign, and added at least one Player Character to that Campaign.
 
-For more information about Campaigns, please see here
+For more information about Campaigns, please see [Campaigns & Modules](campaigns-and-modules).
 
 [icon-pencil]: icons/pencil.png 
 [icon-highlighter]: icons/highlighter.png

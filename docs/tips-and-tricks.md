@@ -1,7 +1,6 @@
 # Tips and Tricks
 
-
-For more information about Campaigns, please see here
+For more information about Campaigns, please see [here](campaigns-and-modules).
 
 [icon-pencil]: icons/pencil.png 
 [icon-highlighter]: icons/highlighter.png
