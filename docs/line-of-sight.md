@@ -6,7 +6,7 @@ You can use *Line of Sight* to dynamically hide a portion of the map from player
 
 ### Drawing walls
 
-You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighter]. Try using Line style for rectangular corridors, and Freehand style for caverns.
+You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighter]. Try using Rectangle or Line style for rectangular corridors, and Freehand style for caverns.
 
 *Pro TIP - Cyan colored walls will block Line of Sight, but not movement.*
 
