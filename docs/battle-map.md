@@ -54,6 +54,10 @@ Battle map contains several specialized layers for various purposes.
 * **Walls & Obstacles** - walls, doors and other obstacles used in [Line of Sight](line-of-sight).
 * **Walkable Floors** - used for pathfinding and walls generator.
 
+## Token Visibility
+
+Token visibility can be configured in Settings: Visible Tokens.
+
 ## Scrolling and Zooming
 
 1. Tap ![move][icon-move].
@@ -101,7 +105,7 @@ You can use any image as a background for your map. If your map image already co
 
 You can use *Line of Sight* to dynamically hide a portion of the map from players based on their vision while presenting on the external screen.
 
-More info in dedicated [section](line-of-sight)
+More info in dedicated [section](line-of-sight).
 
 ### Walls generator
 
@@ -185,16 +189,17 @@ You can add custom markers to describe specific locations on the map.
 
 ## Handwriting and Highlighting
 
-You can draw on a map or highlight a specific area, sketch basic dungeon or environmental effect.
+You can draw on a map to highlight a specific area, add environmental effects, or sketch a basic dungeon.
 
 ### Adding handwriting
 
 1. Tap ![pencil][icon-pencil] or ![highlighter][icon-highlighter].
 2. Use a finger or stylus to write, sketch or highlight.
 
-### Changing ink color and size
+### Changing ink color, size, or style
 
 1. Tap ![pencil][icon-pencil] or ![highlighter][icon-highlighter] twice.
+2. Select color, size, or style.
 
 ### Erasing handwriting
 

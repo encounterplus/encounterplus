@@ -4,6 +4,12 @@ You can use *Line of Sight* to dynamically hide a portion of the map from player
 
 <video src="https://encounter.plus/videos/line-of-sight.mp4" width="100%" controls preload></video>
 
+### Drawing walls
+
+You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighter]. Try using Line style for rectangular corridors, and Freehand style for caverns.
+
+*Pro TIP - Cyan colored walls will block Line of Sight, but not movement.*
+
 ### Walls generator
 
 You can use *Walls Generator* tool to quickly generate walls and obstacles for Line of Sight based on walkable floors. It’s ideal for dungeons with rectangular corridors.
