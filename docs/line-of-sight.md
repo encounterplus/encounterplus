@@ -8,6 +8,8 @@ You can use *Line of Sight* to dynamically hide a portion of the map from player
 
 You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighter]. Try using Rectangle or Line style for rectangular corridors, and Freehand style for caverns.
 
+Use ![snap][icon-snap] to toggle snap to grid mode. Note that Freehand does not snap to grid.
+
 *Pro TIP - Cyan colored walls will block Line of Sight, but not movement.*
 
 ### Walls generator
