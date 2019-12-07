@@ -10,13 +10,17 @@ You can use this app to display current initiative, images or handouts in realti
 
 You need to have an AppleTV or other device capable of AirPlay Screen Mirroring. You can find more about AirPlay [here](https://support.apple.com/en-au/HT204289)
 
+### What is the translucent bar on the external screen?
+
+That’s the initiative tracker. It can be configured in External Screen settings: Initiative style.
+
 ### Multitasking features for iPad in iOS 11+?
 
 Oh yeah, it is fully there. You can run this app in split screen and drag images from other apps (browser, notes) directly to Creature card.
 
 You can also quickly add creatures to encounter just by dragging text like this 3x kobold, 4x goblin to main screen.
 
-### How can I quickly find image for certain monster?
+### How can I quickly find an image for a monster?
 
 Just tap on monster name in Monster card. You will be redirected to Google Search in Safari browser. Works even better in split screen, where you can update monster’s artwork by dragging image from Safari to Monster card.
 
@@ -24,7 +28,7 @@ Just tap on monster name in Monster card. You will be redirected to Google Searc
 
 You can swipe-to-left on each creature in encounter to see additional actions like delete or copy.
 
-### How can I skip certain creatures in running encouter?
+### How can I skip certain creatures when running an encounter?
 
 Just do not enter their initiative.
 
