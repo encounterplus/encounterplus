@@ -1,6 +1,6 @@
 # Documentation
 
-Documentation for Encounter+ iOS app v4.2
+Documentation for Encounter+ iOS app v4.5
 
 * [Quick Start](quick-start)
 * [Encounter Management](encounter-management)
@@ -10,4 +10,3 @@ Documentation for Encounter+ iOS app v4.2
 * [Campaigns & Modules](campaigns-and-modules)
 * [Tips & Tricks](tips-and-tricks)
 * [FAQ](faq)
-
