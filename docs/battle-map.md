@@ -4,6 +4,7 @@
 [icon-undo]: icons/undo.png
 [icon-move]: icons/move.png
 [icon-move-restricted]: icons/move-restricted.png
+[icon-move-restricted2]: icons/move-restricted2.png
 [icon-select]: icons/select.png
 [icon-snap]: icons/snap.png
 [icon-reveal]: icons/reveal.png
@@ -14,10 +15,11 @@
 [icon-share]: icons/share.png
 [icon-fog-free]: icons/fog-free.png
 [icon-fog-rect]: icons/fog-rect.png
+[icon-add]: icons/add.png
 
 # Battle Map
 
-## Toolbar buttons
+## Toolbar Buttons
 
 * ![pencil][icon-pencil] Pencil
 * ![highligher][icon-highlighter] Highlighter
@@ -34,7 +36,7 @@
 ## Settings
 
 * **Fog of War** - show or hide a portion of the map.
-* **Line of Sight** - show or hide a portion of the map, dynamically based on vision and sight.
+* **Line of Sight** - show or hide a portion of the map dynamically, based on vision and sight.
 * **Grid Visible** - show or hide a grid on the map.
 * **Grid Color** - color for grid lines.
 * **Grid Size** - the size of one grid square.
@@ -48,15 +50,18 @@
 
 ## Layers
 
-Battle map contains several specialized layers for various purposes.
+Battle Map contains several specialized layers used for various purposes.
 
-* **Tokens & Objects** - default layer for drawings and tokens.
-* **Walls & Obstacles** - walls, doors and other obstacles used in [Line of Sight](line-of-sight).
-* **Walkable Floors** - used for pathfinding and walls generator.
+* **DM** - drawings placed here are visible only on the GM screen.
+* **Token** - Character and Creature tokens.
+* **Object** - default layer for drawings and *Map Objects*.
+* **Map** - background map image or video.
+* **Wall** - walls, doors, and other obstacles used in [Line of Sight](line-of-sight).
+* **Floor** - used for pathfinding and the *Walls Generator*.
 
 ## Token Visibility
 
-Token visibility can be configured in Settings: Visible Tokens.
+Token visibility can be configured in **Settings: Visible Tokens**.
 
 ## Scrolling and Zooming
 
@@ -65,35 +70,42 @@ Token visibility can be configured in Settings: Visible Tokens.
 
 ## Moving Creatures
 
-### Moving single creature
+### Moving a Single Creature
 
 1. Tap ![move][icon-move].
-2. Use a finger on circle token to move creature anywhere on the grid.
+2. Use a finger on a circle token to move a creature anywhere on the grid.
 
-### Moving multiple creatures at once
+### Moving Multiple Creatures at Once
 
 1. Tap ![select][icon-select].
-2. Use finger to select a group of creatures by dragging rectangle over them.
+2. Use finger to select a group of creature tokens by dragging a rectangle over them.
 3. Use a finger on any circle token in a selected group to move creatures anywhere on the grid.
 
-*PRO TIP: You can choose multiple party movement modes from app settings, which applies when selecting and moving a group of players*
+*PRO TIP: You can choose multiple party movement modes from **Settings: Party Movement Mode**, which applies when selecting and moving a group of Characters.*
 
 ### Snap to Grid
 
-1. Tap ![snap][icon-snap] to toggle between snap to grid modes.
+1. Tap ![snap][icon-snap] to toggle between Snap to Grid modes.
 2. Use a finger on circle token to move creature anywhere on the map.
+3. Snap to Grid also affects drawing (see below).
+
+### Restricting Character Token Movement
+
+* Tap ![move][icon-move] twice.
+	* Tap ![move-restricted][icon-move-restricted2] to prevent Character tokens from crossing [Walls](line-of-sight).
+	* Tap ![move][icon-move] to allow free Character token movement.
 
 ## Grid and Background Image
 
-You can use any image as a background for your map. If your map image already contains a grid, you need to do an alignment.
+You can use any image as a background for your map. If your map image already contains a grid, you may need to do an alignment.
 
-### Adding background image
+### Adding Background Image
 
 1. Tap ![settings][icon-settings].
-2. Tap **Image** and choose Photo Library or Browse Files.
+2. Tap **Image** and choose *Photo Library* or *Browse Files*.
 3. Pick an image from your photo album or files app.
 
-### Aligning grid to background image
+### Aligning Grid to Background Image
 
 * Use **Grid Size** to match the square size on the background image.
 * Use **Offset X** and **Offset Y** to match grid offset on the background image.
@@ -103,54 +115,40 @@ You can use any image as a background for your map. If your map image already co
 
 ## Line of Sight
 
-You can use *Line of Sight* to dynamically hide a portion of the map from players based on their vision while presenting on the external screen.
+You can use *Line of Sight* to dynamically hide a portion of the map from Players based on their vision while presenting on the external screen.
 
 More info in dedicated [section](line-of-sight).
-
-### Walls generator
-
-You can use *Walls Generator* tool to quickly generate walls and obstacles for Line of Sight based on walkable floors. It’s ideal for dungeons with rectangular corridors.
-
-1. Tap ![settings][icon-settings].
-2. Tap *Walls Generator*.
-3. Adjust parameters.
-	* **Wall Offset** - offset from other side of wall.
-	* **Floor Color** - only use floors with selected color.
-	* **Continuous** - if enabled, each wall will be generated as a single continuous line, otherwise it will be divided into separate segments.
-4. Tap Generate.
-
-*Pro TIP - You can experiment with parameters by using this tool multiple times. All previously generated walls will be replaced.*
 
 ## Fog of War
 
 You can use *Fog of War* tools to hide a portion of the map from players while presenting on the external screen or using Share tool.
 
-### Enabling fog of war
+### Enabling Fog of War
 
 1. Tap ![settings][icon-settings].
 2. Enable Fog of War.
 	* ![reveal][icon-reveal], ![hide][icon-hide] Fog tools are visible on the toolbar.
 	* Everything is hidden by default.
 
-### Revealing area
+### Revealing Area
 
 1. Tap ![reveal][icon-reveal].
 2. Draw a shape on the map.
 3. Tap anywhere inside shape to reveal.
 
-### Hiding area
+### Hiding Area
 
 1. Tap ![hide][icon-hide].
 2. Draw a shape on the map.
 3. Tap anywhere inside shape to hide.
 
-### Changing hide/reveal mode
+### Changing Hide/Reveal Mode
 
-1. Tap ![reveal][icon-reveal] or ![hide][icon-hide] twice.
+Tap ![reveal][icon-reveal] or ![hide][icon-hide] twice.
 
-### Changing drawing mode
+### Changing Drawing Mode
 
-1. Tap ![reveal][icon-reveal] or ![hide][icon-hide] twice.
+* Tap ![reveal][icon-reveal] or ![hide][icon-hide] twice.
 	* Tap ![fog-rect][icon-fog-rect] for rectangle drawing.
 	* Tap ![fog-free][icon-fog-free] for freehand drawing.
 
@@ -158,24 +156,24 @@ You can use *Fog of War* tools to hide a portion of the map from players while p
 
 You can add custom markers to describe specific locations on the map.
 
-### Adding markers
+### Adding Markers
 
 1. Tap ![markers][icon-markers].
-2. Tap + to add new marker.
+2. Tap ![add][icon-add] to add new marker.
 
-*Pro TIP - Double Tap anywhere on the map to quickly add a new marker.*
+*Pro TIP - Double-tap anywhere on the map to quickly add a new marker.*
 
-### Editing marker
+### Editing Marker
 
 1. Tap on existing marker twice.
 2. Tap on *Edit* option.
 
-### Deleting marker
+### Deleting Marker
 
 1. Tap on existing marker twice.
 2. Tap on *Delete* option.
 
-### Marker settings
+### Marker Settings
 
 * **Name** - floating text above.
 * **Label** - the character inside.
@@ -191,31 +189,33 @@ You can add custom markers to describe specific locations on the map.
 
 You can draw on a map to highlight a specific area, add environmental effects, or sketch a basic dungeon.
 
-### Adding handwriting
+### Adding Handwriting
 
 1. Tap ![pencil][icon-pencil] or ![highlighter][icon-highlighter].
 2. Use a finger or stylus to write, sketch or highlight.
 
-### Changing ink color, size, or style
+### Changing Ink Color, Size, or Style
 
 1. Tap ![pencil][icon-pencil] or ![highlighter][icon-highlighter] twice.
 2. Select color, size, or style.
 
-### Erasing handwriting
+### Erasing Handwriting
 
 1. Tap ![eraser][icon-eraser].
 2. Tap a handwritten stroke to erase it.
 
-### Undoing handwriting
+### Snap to Grid
 
-1. Tap ![undo][icon-undo] to undo your latest handwriting.
+Use ![snap][icon-snap] to toggle Snap to Grid mode for drawing. Note that *Freehand* does not snap to grid.
 
-### Scrolling while handwriting
+### Undoing Handwriting
 
-* Use two fingers to scroll and zoom.
+Tap ![undo][icon-undo] to undo your latest handwriting.
+
+### Scrolling While Handwriting
+
+Use two fingers to scroll and zoom.
 
 ## Working with Assets
 
-<div class="video">
-    <iframe  src="https://www.youtube.com/embed/V-BUZvcmO5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+See [Working with Assets](assets).

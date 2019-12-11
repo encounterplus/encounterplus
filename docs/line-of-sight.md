@@ -1,18 +1,18 @@
 # Line of Sight
 
-You can use *Line of Sight* to dynamically hide a portion of the map from players based on their vision while presenting on the external screen.
+You can use *Line of Sight* to dynamically hide a portion of the map from Players based on their vision while presenting on the external screen.
 
 <video src="https://encounter.plus/videos/line-of-sight.mp4" width="100%" controls preload></video>
 
-### Drawing walls
+### Drawing Walls
 
-You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighter]. Try using Rectangle or Line style for rectangular corridors, and Freehand style for caverns.
+You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighter]. Try using *Rectangle* or *Line* style for rectangular corridors, and *Freehand* style for caverns.
 
-Use ![snap][icon-snap] to toggle snap to grid mode. Note that Freehand does not snap to grid.
+Use ![snap][icon-snap] to toggle Snap to Grid mode. Note that *Freehand* does not snap to grid.
 
 *Pro TIP - Cyan colored walls will block Line of Sight, but not movement.*
 
-### Walls generator
+### Walls Generator
 
 You can use *Walls Generator* tool to quickly generate walls and obstacles for Line of Sight based on walkable floors. It’s ideal for dungeons with rectangular corridors.
 
