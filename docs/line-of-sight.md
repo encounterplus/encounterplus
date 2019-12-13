@@ -10,7 +10,7 @@ You can draw walls with ![pencil][icon-pencil] or ![highlighter][icon-highlighte
 
 Use ![snap][icon-snap] to toggle Snap to Grid mode. Note that *Freehand* does not snap to grid.
 
-*Pro TIP - Cyan colored walls will block Line of Sight, but not movement.*
+*PRO TIP - Cyan colored walls will block Line of Sight, but not movement.*
 
 ### Walls Generator
 
@@ -24,7 +24,7 @@ You can use *Walls Generator* tool to quickly generate walls and obstacles for L
 	* **Continuous** - if enabled, each wall will be generated as a single continuous line, otherwise it will be divided into separate segments.
 4. Tap Generate.
 
-*Pro TIP - You can experiment with parameters by using this tool multiple times. All previously generated walls will be replaced.*
+*PRO TIP - You can experiment with parameters by using this tool multiple times. All previously generated walls will be replaced.*
 
 [icon-pencil]: icons/pencil.png 
 [icon-highlighter]: icons/highlighter.png
