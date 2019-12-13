@@ -87,7 +87,8 @@ Token visibility can be configured in **Settings: Visible Tokens**.
 
 1. Tap ![snap][icon-snap] to toggle between Snap to Grid modes.
 2. Use a finger on circle token to move creature anywhere on the map.
-3. Snap to Grid also affects drawing (see below).
+
+*PRO TIP: Snap to Grid also affects **Handwriting** and **Highlighting** (see below).*
 
 ### Restricting Character Token Movement
 
@@ -161,7 +162,7 @@ You can add custom markers to describe specific locations on the map.
 1. Tap ![markers][icon-markers].
 2. Tap ![add][icon-add] to add new marker.
 
-*Pro TIP - Double-tap anywhere on the map to quickly add a new marker.*
+*PRO TIP - Double-tap anywhere on the map to quickly add a new marker.*
 
 ### Editing Marker
 
