@@ -20,7 +20,7 @@ For example adventures and battle maps. <a href="https://www.elventower.com">Web
 
 For artworks located in the settings and app store preview. <a href="https://www.artstation.com/mattforsyth">Artstation</a>
 
-###Iñaki Silleras Art
+### Iñaki Silleras Art
 
 For artworks located in the app store preview. <a href="https://www.facebook.com/Iñaki-Silleras-Art-377132112405478/">FB page</a>
 
