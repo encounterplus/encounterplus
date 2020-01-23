@@ -9,4 +9,5 @@ Documentation for Encounter+ iOS app v4.5
 * [Line of Sight](line-of-sight)
 * [Campaigns & Modules](campaigns-and-modules)
 * [Tips & Tricks](tips-and-tricks)
+* [Special Thanks](special-thanks)
 * [FAQ](faq)
