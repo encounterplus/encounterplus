@@ -8,9 +8,13 @@ A special thanks to all beta testers and users on Reddit, Discord and Facebook f
 
 For sample assets and battle maps. <a href="https://www.2minutetabletop.com">Website</a>
 
+### Neutral Party
+
+For battle maps located in tutorials and the app store preview. <a href="https://www.patreon.com/neutralparty">Patreon</a>
+
 ### eViLe-eAgLe
 
-For battle map images located in the app store preview. <a href="https://www.deviantart.com/evile-eagle">DeviantArt</a>
+For battle map located in the app store preview. <a href="https://www.deviantart.com/evile-eagle">DeviantArt</a>
 
 ### Elven Tower Cartography
 
