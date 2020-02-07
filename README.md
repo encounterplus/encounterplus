@@ -1,3 +1,3 @@
-# encounterplus-docs
+# EncounterPlus iOS app v4.6
 
-Documentation for Encounter+ iOS v4.2
+Documentation
