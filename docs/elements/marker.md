@@ -1,6 +1,6 @@
 # Marker
 
-```XML
+```xml
 <marker>
     <name>Example Page</name>
     <color>#268bd2</color>

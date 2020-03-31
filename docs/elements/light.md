@@ -1,6 +1,6 @@
 # Light
 
-```XML
+```xml
 <light id="FC91A4BD-7022-4508-A58A-5CBF11267B49">
     <enabled>YES</enabled>
     <radiusMin>20</radiusMin>

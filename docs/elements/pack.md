@@ -1,6 +1,6 @@
 # Pack
 
-```XML
+```xml
 <pack id="8BEBC35E-0C03-4F2B-AAAA-6DA21DC18FAB">
 	<name>Sample Assets</name>
 	<description>2minutetabletop.com</description>
@@ -53,7 +53,4 @@
 | group | [Group](gruop.md) |  |
 | asset | [Asset](asset.md) |  |
 
-## Content
-
-TODO
 

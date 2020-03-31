@@ -1,6 +1,6 @@
 # Combatant
 
-```XML
+```xml
  <combatant>
     <label>G2</label>
     <x>450</x>

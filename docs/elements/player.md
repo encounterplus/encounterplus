@@ -1,6 +1,6 @@
 # Player
 
-```XML
+```xml
 <player id="79A826C2-1694-4EEA-92FB-70B0F511BCDD">
     <name>Thorin Stoneheart</name>
     <slug>thorin-stoneheart</slug>

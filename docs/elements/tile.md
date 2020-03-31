@@ -1,6 +1,6 @@
 # Tile
 
-```XML
+```xml
 <tile id="D22B242D-0F74-4D62-BCF0-AB834B1CF81E">
     <x>322</x>
     <y>574</y>

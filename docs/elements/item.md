@@ -1,6 +1,6 @@
 # Item
 
-```XML
+```xml
 <compendium>
     <item id="BADD84E5-5219-4710-B4BF-1C5C45B359C9">
 		<name>Adamantine Armor</name>

@@ -1,6 +1,6 @@
 # Component
 
-```XML
+```xml
 <component>
     <type>filter.tint</type>
     <enabled>YES</enabled>

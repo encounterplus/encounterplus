@@ -1,6 +1,6 @@
 # Module
 
-```XML
+```xml
 <module id="AA9B0CA6-E75D-4781-8CA8-CA1DE5B88AB0">
 	<name>Examples</name>
 	<description>Few examples for future reference.</description>
@@ -122,7 +122,4 @@
 | encounter | [Encounter](encounter.md) |  |
 | group | [Group](group.md) |  |
 
-## Content
-
-TODO
 
