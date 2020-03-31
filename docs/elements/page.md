@@ -1,6 +1,6 @@
 # Page
 
-```XML
+```xml
 <page id="2BA4481B-B606-4084-9AF6-7DC70AB88A05">
     <name>Example Page</name>
     <slug>example-page</slug>
@@ -34,7 +34,7 @@
 
 ## Content
 
-```HTML
+```html
 <p><img src="heading.png" alt="heading" class="size-cover"></p>
 <h1 id="heading-1">Heading 1</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa tempor nec feugiat nisl pretium fusce id. Tincidunt augue interdum velit euismod. Odio pellentesque diam volutpat commodo sed egestas. Mattis molestie a iaculis at erat. Nibh venenatis cras sed felis. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque.</p>
