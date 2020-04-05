@@ -4,7 +4,7 @@
 <trait>
     <name>Amphibious</name>
     <text>The aboleth can breathe air and water.</text>
-</trait
+</trait>
 ```
 
 ```xml
