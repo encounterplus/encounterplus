@@ -79,3 +79,38 @@ Whenever the charmed target takes damage, the target can repeat the saving throw
 
 | Field  | Type | Description |
 | ------ | ---- | ----------- |
+| name  | String | |
+| slug  | String | for referencing |
+| size  | String | T, S, M, L, H, G, C |
+| type  | String |  |
+| alignment  | String | lawful good, neutral good, chaotic good, lawful neutral, neutral , chaotic neutral, lawful evil, neutral evil, chaotic evil, unaligned, any alignment |
+| role  | String, Deprecated | enemy, ally, companion, familar |
+| ac | String | 14 (hide armor) or 14 |
+| hp | String | 11 (2d8+2) or 11 |
+| speed | String |  |
+| str | Integer |  |
+| dex | Integer |  |
+| con | Integer |  |
+| int | Integer |  |
+| wis | Integer |  |
+| cha | Integer |  |
+| save | String | Saving throws |
+| skill | String | Skills |
+| immune | String | Damage Immunities |
+| vulnerable | String | Damage Vulnerabilities  |
+| resist | String | Damage Resistances |
+| conditionImmune | Condition Immunities |  |
+| senses | String |  |
+| passive | Integer | Passive Perception |
+| languages | String |  |
+| description | String |  |
+| cr | Integer | Challenge Rating |
+| source | String |  |
+| environments | String | Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban |
+| image | String | art image filename |
+| token | String | token image filename |
+| bookmark | Boolean | YES, NO |
+| trait | [Trait](custom.md) |  |
+| action | [Action](custom.md) |  |
+| reaction | [Reaction](custom.md) |  |
+| legendary | [Legendary](custom.md) |  |
