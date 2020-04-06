@@ -33,3 +33,22 @@
 
 | Field  | Type | Description |
 | ------ | ---- | ----------- |
+| name  | String | |
+| slug  | String | for referencing |
+| type  | String | AA - Armor, WW - Weapon, LA - Light armor, MA - Medium armor, HA - Heavy armor, S - Shield, M - Melee weapon, R - Ranged weapon, A - Ammunition, RD - Rod, ST - Staff, WD - Wand, RG - Ring, P - Potion, SC - Scroll, W - Woundrous item, G - Adventuring gear, $ - Wealth |
+| weight  | String |  |
+| heading  | String |  |
+| attunement  | String |  |
+| rarity  | String |  |
+| value  | String |  |
+| property  | String | A - Ammunition, F - Finesse, H - Heavy, L - Light, LD - Loading, RN - Range, R - Reach, S - Special, T - Thrown, 2H - Two-handed, V - Versatile |
+| value  | String |  |
+| dmg1  | String |  |
+| dmg2  | String |  |
+| dmgType  | String | B - Bludgeoning, P - Piercing, S - Slashing |
+| range  | String |  |
+| ac  | String |  |
+| source  | String |  |
+| image | String | art image filename |
+| bookmark | Boolean | YES, NO |
+| text | String |  |

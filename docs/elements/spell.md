@@ -30,3 +30,17 @@
 
 | Field  | Type | Description |
 | ------ | ---- | ----------- |
+| name  | String | |
+| slug  | String | for referencing |
+| level  | Integer |
+| school  | String | A - Abjuration, C - Conjuration, D - Divination, EN - Enchantment, EV - Evocation, I - Illusion, N - Necromancy, T - Transmutation |
+| ritual  | Boolean | YES, NO|
+| time  | String |  |
+| range  | String |  |
+| components  | String |  |
+| duration  |  |
+| classes  | String | Artificer, Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard |
+| source  | String |  ||
+| image | String | art image filename |
+| bookmark | Boolean | YES, NO |
+| text | String |  |

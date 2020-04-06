@@ -41,4 +41,34 @@
 
 | Field  | Type | Description |
 | ------ | ---- | ----------- |
-
+| name  | String | |
+| slug  | String | for referencing |
+| race  | String |  |
+| class  | String | Artificer, Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard |
+| level  | Integer |  |
+| xp  | Integer |  |
+| ac | String | 14 (hide armor) or 14 |
+| hp | Integer | 11 |
+| speed | String |  |
+| str | Integer |  |
+| dex | Integer |  |
+| con | Integer |  |
+| int | Integer |  |
+| wis | Integer |  |
+| cha | Integer |  |
+| descr | String | description |
+| party | String (Deprecated) | |
+| skill | String | Skills |
+| senses | String |  |
+| passive | Integer | Passive Perception |
+| initiative | Integer | Initiative Modifier |
+| spells | String | Fireball, Firestorm |
+| equipment | String | Staff of Fireball, Adamantine Armor |
+| ideals | String |  |
+| bonds | String |  |
+| flaws | String |  |
+| ddb | String | Link to DDB character sheet |
+| image | String | art image filename |
+| token | String | token image filename |
+| bookmark | Boolean | YES, NO |
+| light | [Light](light.md) |  |
