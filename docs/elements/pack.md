@@ -50,7 +50,7 @@
 | code  | String |  |
 | category  | String | personal, other |
 | image | String | cover image filename |
-| group | [Group](gruop.md) |  |
+| group | [Group](group.md) |  |
 | asset | [Asset](asset.md) |  |
 
 
