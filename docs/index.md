@@ -12,7 +12,7 @@ Documentation for EncounterPlus VTT iOS v4.7
 * [Tips & Tricks](tips-and-tricks)
 * [Special Thanks](special-thanks)
 * [FAQ](faq)
-* [Web Client FAQ](Web-Client-FAQ)
+* [Web Client FAQ](web-client-faq)
 ## Discussion
 
 <a target="_blank" href="https://discord.gg/rc8Bez8"><img  height="80" src="images/discord.png"></a>
