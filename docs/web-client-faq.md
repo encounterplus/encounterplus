@@ -8,6 +8,8 @@ The device that is running the game can act as a server for other players to con
 1. Part one: you need to **open port 8080 on your router** for the IP address E+ is displaying. That needs to be done on your router. **Please refer to your routers user manual** or https://portforward.com for information on how to change port settings.
 2. Part two: The IP address that is given to you within E+ is just the devices IP address. **You need to find the the IP address provided to you by your Internet Service Provider.** A good place to find that is https://whatsmyip.org or https://whatismypublicip.org. Now that you have opened port 8080 and you know your actual IP address, players can connect to you using the URL **http://client.encounter.plus?remoteHost=[your IP Address]:8080**
 
+*Note: Currently, IPv6 IP addresses are not supported. When looking for your public IP, use the IPv4 version of your IP.*
+
 ### I opened the port and got my IP address, but it still says Websocket Disconnected when players try to join.
 This can happen when **browsers automatically redirect to https://client.encounter.plus instead of http://client.encounter.plus.** Try turning on **incognito mode in Chrome or Private Browsing in Safari** to keep it from redirecting. If your browser is still redirecting to https, **try clearing your browser history.** 
 
