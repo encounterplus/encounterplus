@@ -2,7 +2,7 @@
 
 Designed to help Dungeon Masters to run D&D 5E combat encounters more easily. You can track initiative, health, statistics, and conditions for various creatures. 
 
-![Promo](promo.png)
+![Promo](promo-transparent-small.png)
 
 ## Installation
 
