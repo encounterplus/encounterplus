@@ -14,7 +14,7 @@ This can happen when **browsers automatically redirect to https://client.encount
 **Note: Currently, only Safari and Chrome have been tested for the E+ Web Client.** 
 
 ### All or some of my tokens aren't appearing on the web client.
-**Try moving the tokens around to refresh them** on the web client side. If that doens't work, **try turing off web server in E+ and turning it back on.** Once this is done **have the players reconnect.** 
+**Try moving the tokens around to refresh them** on the web client side. If that doens't work, **try turning off web server in E+ and turning it back on.** Once this is done **have the players reconnect.** 
 
 ### What are the different settings in the web server section of E+?
 Those allow the DM to control how many people can interact with the tokens onscreen at any given point. When it is set to **All**, then anyone can move tokens at anytime. Setting it to **Turn Only** will only allow tokens to move on their turn. Setting it to **None** will only allow the DM to move tokens. 
