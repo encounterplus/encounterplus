@@ -2,11 +2,16 @@
 
 Encounter+ is a great way to manage any combat encounter. It’s designed to quickly add creatures or NPCs as well Player Characters on the fly. It’s also designed to keep track of various conditions both positive and negative for each creature and Player in an encounter.
 
-### Before Combat
+### What is an Encounter?
+An encounter is a collection of creatures assembled for the intent of going up against your player characters. An encounter is not part of a map. It's a stand alone "object" that you can use with a map but techinically it is not part of the map. We keep enounters decoupled to provide flexibility. Using this approach allows you to mix and match encounters with maps. You can use any encounter with any map.
 
-Adding Creatures and Player Characters:
+Example: Let's say that you create an encounter with 3 Kobolds named "Kobold Kandy" and you have two different maps with forest settings. You don't have to create an encounter for each map. You can load the same encounter, "Kobold Kandy", into both maps as you see fit. This modular approach gives the DM maximum flexibility on the fly!
 
-1. Tap ![Insert][icon-insert] in the bottom right corner of Encounter+.
+### Creating an Encounter
+
+Add Creatures and Player Characters:
+
+1. Tap ![Insert][icon-insert] Encounter+.
 2. Choose between the following:
 	
 	* **Monster or NPC**: This will open the built-in **Compendium** for all the creatures stored within Encounter+.
@@ -21,7 +26,7 @@ Adding Creatures and Player Characters:
 	
 		***Note:** Player Characters can be added to a campaign by tapping on the campaign in the Compendium ![compendium][icon-library]. Then tap the **Edit** button to add Players to that particular campaign. This gives one-tap capability to add groups of PCs.*
 
-3. Once a particular creature or PC is tapped on in the Compendium, a creature description will be seen. This will display all the stats and abilities of that creature. Tap the ![Checkmark][icon-load] to add that creature.
+3. Tap on a creature or Player Character in the Compendium to see  the description. All the stats and abilities of that creature or Player Character are viewable before insertion. Tap the ![Checkmark][icon-load] to add that creature or Player Character.
 
 	***Note:** The ![Checkmark][icon-load] can be tapped multiple times to add several of the same creature to a combat encounter.*
 
