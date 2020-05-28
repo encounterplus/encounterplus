@@ -19,7 +19,7 @@
 
 # Battle Map
 
-## Toolbar Buttons
+## Tools
 
 * ![pencil][icon-pencil] Pencil
 * ![highligher][icon-highlighter] Highlighter
@@ -31,7 +31,7 @@
 * ![snap][icon-snap] Snap to Grid
 * ![reveal][icon-reveal] Fog of War
 * ![markers][icon-markers] Markers
-* ![settings][icon-settings] Setting
+* ![settings][icon-settings] Settings
 
 ## Settings
 
@@ -50,7 +50,7 @@
 
 ## Layers
 
-Battle Map contains several specialized layers used for various purposes.
+Battle Map contains several layers used for various purposes.
 
 * **DM** - drawings placed here are visible only on the GM screen.
 * **Token** - Character and Creature tokens.
@@ -73,20 +73,20 @@ Token visibility can be configured in **Settings: Visible Tokens**.
 ### Moving a Single Creature
 
 1. Tap ![move][icon-move].
-2. Use a finger on a circle token to move a creature anywhere on the grid.
+2. Use a finger on a token to drag a creature or Player Character anywhere on the grid.
 
 ### Moving Multiple Creatures at Once
 
 1. Tap ![select][icon-select].
-2. Use finger to select a group of creature tokens by dragging a rectangle over them.
-3. Use a finger on any circle token in a selected group to move creatures anywhere on the grid.
+2. Use your finger to select a group of creatures or Player Characters by dragging a rectangle over them.
+3. Use your finger on any creature or Player Characters in a selected group to move tokens anywhere on the grid.
 
 *PRO TIP: You can choose multiple party movement modes from **Settings: Party Movement Mode**, which applies when selecting and moving a group of Characters.*
 
 ### Snap to Grid
 
 1. Tap ![snap][icon-snap] to toggle between Snap to Grid modes.
-2. Use a finger on circle token to move creature anywhere on the map.
+2. Use a finger on circle tokens to move creatures or Player Characters anywhere on the map.
 
 *PRO TIP: Snap to Grid also affects **Handwriting** and **Highlighting** (see below).*
 
@@ -137,7 +137,7 @@ You can use *Fog of War* tools to hide a portion of the map from players while p
 2. Draw a shape on the map.
 3. Tap anywhere inside shape to reveal.
 
-### Hiding Area
+### Hiding an Area
 
 1. Tap ![hide][icon-hide].
 2. Draw a shape on the map.
