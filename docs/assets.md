@@ -1,5 +1,5 @@
 # Working with Assets
 
 <div class="video">
-    <iframe  src="https://www.youtube.com/embed/V-BUZvcmO5Y" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe  src="https://www.youtube.com/embed/V-BUZvcmO5Y?playsinline=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
