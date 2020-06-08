@@ -15,6 +15,12 @@ Here are some tutorials. Work in progress.
 
 ## Video tutorials by Dusey
 
+### Tips — Perfectly align grids to any map the first time, every time
+ 
+<div class="video">
+<iframe src="https://www.youtube.com/embed/bHVZ7IXqyTg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### How to Part 1 — Intro & Overview
 
 <div class="video">
