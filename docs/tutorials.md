@@ -5,6 +5,12 @@ Here are some tutorials. Work in progress.
 
 # Official video tutorials
 
+### Fog of War & Line of sight
+
+<div class="video">
+<iframe src="https://www.youtube.com/embed/G6M_Ta0fZMM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### Working with assets
 
 <div class="video">
@@ -49,4 +55,10 @@ Here are some tutorials. Work in progress.
 
 <div class="video">
 <iframe src="https://www.youtube.com/embed/gdSpy_kdfDY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### How to Part 6 — Using Assets & making maps, tokens, spell effects, auras & packs
+
+<div class="video">
+<iframe src="https://www.youtube.com/embed/YXJ1im7YpFE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
