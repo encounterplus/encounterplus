@@ -62,3 +62,21 @@ Here are some tutorials. Work in progress.
 <div class="video">
 <iframe src="https://www.youtube.com/embed/YXJ1im7YpFE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Online play using the Web Client [Early Access]
+
+<div class="video">
+<iframe src="https://youtu.be/G2tPKdXPCBk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Tips — Send dice rolls from D&D Beyond to EncounterPlus with EncounterBeyond [Early Access]
+
+<div class="video">
+<iframe src="https://youtu.be/X2EriHxF034" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Tips — EncounterBeyond for Safari
+
+<div class="video">
+<iframe src="https://youtu.be/G2tPKdXPCBk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
