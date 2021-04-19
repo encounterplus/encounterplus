@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 <!--INSTRUCTIONS-->
-<!--Please confirm that you are on the latest version of your OS and the Encounter+ app.-->
+<!--Search existing issues for duplicates before opening a new issue.-->
+<!--Confirm that you are on the latest version of your OS and the Encounter+ app.-->
 <!--Provide a general summary of the issue in the Title above.-->
 <!--You do not need to delete these instructions. They will disappear.-->
 
