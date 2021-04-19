@@ -6,34 +6,20 @@ labels: 'bug - needs review'
 assignees: ''
 
 ---
+### What went wrong?
 
-<!--INSTRUCTIONS-->
-<!--Search existing issues for duplicates before opening a new issue.-->
-<!--Confirm that you are on the latest version of your OS and the Encounter+ app.-->
-<!--Provide a general summary of the issue in the Title above.-->
-<!--You do not need to delete these instructions. They will disappear.-->
 
-#### Environment
-<!--Device e.g. iPad, iPhone, Macbook.-->
-<!--Include Browser and its version if the bug involves the web client.-->
-- Encounter+ Version: 
-- OS Version: 
-- Device: 
+### What were you expecting to happen?
 
-#### Steps to Reproduce
-<!--Provide an unambiguous set of steps to reproduce this bug.-->
+
+### What steps can we follow to reproduce the issue?
 1. 
 
-#### Expected Behavior
-<!--Tell us what should happen.-->
+### What software versions are you currently using?
+- EncounterPlus (e.g. 4.11.1): 
+- Operating System (e.g. "iOS/iPadOS 14.2" or "macOS 11.3"): 
+
+### Any screenshots, videos, logs, or error messages?
 
 
-#### Current Behavior
-<!--Tell us what happens instead of the expected behavior.-->
-<!--Please include screenshots if applicable to better explain the problem.-->
-
-
-#### Context
-<!--How has this issue affected you-->
-<!--What are you trying to accomplish?-->
-<!--Add any other context about the problem here.-->
+### Any other comments?
