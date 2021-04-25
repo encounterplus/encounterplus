@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Request
+    about: Suggest an idea for this project
+    url: https://github.com/encounterplus/encounterplus/issues/new?assignees=&labels=feature-request&template=feature_request.md&title=&projects=encounterplus/encounterplus/1
+  - name: Bug Report
+    about: Create a report of an issue you encountered
+    url: https://github.com/encounterplus/encounterplus/issues/new?assignees=&labels=bug%2C+needs+review&template=bug_report.md&title=&projects=encounterplus/encounterplus/2
