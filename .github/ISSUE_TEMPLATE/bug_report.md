@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a report of an issue you encountered
 title:
 labels: bug
-projects: encounterplus/encounterplus/3
+projects: encounterplus/encounterplus/2
 assignees:
 ---
 ### What went wrong?
