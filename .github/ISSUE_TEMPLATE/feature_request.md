@@ -1,3 +1,11 @@
+---
+name: Feature Request
+about: Suggest a new feature or enhancement for EncounterPlus
+title:
+labels: feature-request
+projects: encounterplus/encounterplus/3
+assignees:
+---
 ### What would you like to see added to EncounterPlus?
 - 
 
