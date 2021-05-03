@@ -1,1 +1,7 @@
 blank_issues_enabled: false
+  - name: Feature Requests
+    url: https://github.com/encounterplus/encounterplus/discussions
+    about: Have an idea on how to improve EncounterPlus? Submit and vote here!
+  - name: Discord
+    url: https://discord.gg/rc8Bez8
+    about: Join us for discussion, questions, and tomfoolery!
