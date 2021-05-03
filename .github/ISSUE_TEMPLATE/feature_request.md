@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Submit a new idea for a feature or enhancement.
+about: Submit a new idea for a feature or enhancement
 title:
 labels: feature-request
 projects: encounterplus/encounterplus/3
